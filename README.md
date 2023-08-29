@@ -1,17 +1,17 @@
-###Low Effort Joke Generator###
+### Low Effort Joke Generator ###
 
 How to be kinda funny if you're not funny
 
-##Table of Contents##
+## Table of Contents ##
 
 + [Introduction](#Introduction)
 + [Outroduction](#Outroduction)
 
-#Introduction#
+# Introduction #
 
 Just make jokes, yo.
 
-#Outroduction#
+# Outroduction #
 
 That's all there is to it.
 
