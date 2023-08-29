@@ -12,8 +12,7 @@ const generateRandomSentence = () => {
         const randomAnimal = getRandomElement(animals);
         const randomVerb = getRandomElement(verbs);
         const randomNoun = getRandomElement(nouns);
-        
-return `That damn ${randomAnimal} is ${randomVerb} my precious ${randomNoun}.`; 
+        return `That damn ${randomAnimal} is ${randomVerb} my precious ${randomNoun}.`; 
 }
 console.log(generateRandomSentence())
 
